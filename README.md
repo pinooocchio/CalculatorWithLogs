@@ -50,6 +50,22 @@ To compile the source code:
 gcc calculator.c -o calculator.exe
 ```
 
+## Screenshots/Demo
+
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Addition Operation
+![Addition Example](screenshots/addition-example.png)
+
+### Viewing History
+![History View](screenshots/history-view.png)
+
+### Log File Content
+![Log File](screenshots/log-file.png)
+
+*Note: Add your screenshots to a `screenshots` folder in your project directory*
+
 ## Example Usage
 
 ```
